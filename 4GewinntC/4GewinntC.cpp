@@ -9,7 +9,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 
-int zumtesten = 3;
+int zumtesten =llabs 3;
 char spielFeld[6][7];
 char zeichen;
 int spieler = 1;
