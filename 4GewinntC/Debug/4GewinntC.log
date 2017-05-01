@@ -1,8 +1,6 @@
-﻿Der Buildvorgang wurde am 29.04.2017 15:24:30 gestartet.
+﻿Der Buildvorgang wurde am 01.05.2017 13:55:05 gestartet.
      1>Projekt "C:\Users\f0213\Documents\GitHub\4GewinntProjekt\4GewinntC\4GewinntC.vcxproj" auf Knoten "2", Build Ziel(e).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\4GewinntC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\4GewinntC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 4GewinntC.cpp
          4GewinntC.cpp
      1>c:\users\f0213\documents\github\4gewinntprojekt\4gewinntc\4gewinntc.cpp(57): warning C4101: 'i': Unreferenzierte lokale Variable
@@ -16,4 +14,4 @@
 
 Build erfolgreich.
 
-Verstrichene Zeit 00:00:03.61
+Verstrichene Zeit 00:00:02.92
