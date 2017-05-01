@@ -8,8 +8,7 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 
-
-int zumtesten =llabs 3;
+// Das ist ein TestKommentar
 char spielFeld[6][7];
 char zeichen;
 int spieler = 1;
